@@ -1,17 +1,15 @@
-# Comms established.
-
 email: [contact@zakrok.dev](mailto::contact@zakrok.dev)
 
 My name is Kiril Panayotov. I'm:
 
-- TU Delft CSE Masters (BcH graduate)
+- TU Delft CSE Masters (Bachelor's graduate)
 - an intern at WebStorm, JetBrains
 - developer of Delft Hyperloop's Ground Station GUI and the [Serpenta Standard](https://github.com/delft-hyperloop/serpenta)
 - a contributor to: 
    - [Andy](https://github.com/SERG-Delft/andy) - added several checks and tests
    - [uplot-wrappers](https://github.com/skalinichev/uplot-wrappers) - created the Svelte wrapper for uPlot
 - a teaching assistant at TU Delft for the course Concept of Programming Languages.
-- the actual leader of the Team Praxidike
+- leader of the Praxidike team
 
 For past employments and my CV, please visit [my online portfolio](https://zakrok.dev)
 
