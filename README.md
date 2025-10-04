@@ -1,5 +1,3 @@
-email: [contact@zakrok.dev](mailto::contact@zakrok.dev)
-
 My name is Kiril Panayotov. I'm:
 
 - TU Delft CSE Masters (Bachelor's graduate)
@@ -21,7 +19,7 @@ Browse my nixos and home manager dotfiles configurations included in this repo u
    <summary>More</summary>
    <picture>
      <source
-       srcset="https://github-readme-stats.vercel.app/api?username=zakrok09&show_icons=true&theme=dark"
+       srcset="https://github-readme-stats.vercel.app/api?username=zakrok&show_icons=true&theme=dark"
        media="(prefers-color-scheme: dark)"
      />
      <source
@@ -41,7 +39,7 @@ Browse my nixos and home manager dotfiles configurations included in this repo u
      // written sometime between 2017-2020
    ```
    
-   ```c
+   ```
    Amor et melle et felle est fecundissimus.
    
    Solus cum sis voluntarie immaturus, magna consequi potes.
