@@ -2,7 +2,9 @@ My name is Kiril Panayotov. I'm:
 
 - TU Delft CSE Masters (Bachelor's graduate)
 - an intern at WebStorm, JetBrains
-- developer of Delft Hyperloop's Ground Station GUI and the [Serpenta Standard](https://github.com/delft-hyperloop/serpenta)
+- developer/maintainer of: 
+   - [Serpenta GUI](https://github.com/delft-hyperloop/serpenta) - Delft Hyperloop's GUI standard, winner during 2025 EHW
+   - [ts-automata](https://github.com/zakrok/ts-automata) - npm package for simulating automata from computational science
 - a contributor to: 
    - [Andy](https://github.com/SERG-Delft/andy) - added several checks and tests
    - [uplot-wrappers](https://github.com/skalinichev/uplot-wrappers) - created the Svelte wrapper for uPlot
