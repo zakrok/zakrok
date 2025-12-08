@@ -5,7 +5,8 @@ My name is Kiril Panayotov. I'm:
 - developer/maintainer of: 
    - [Serpenta GUI](https://github.com/delft-hyperloop/serpenta) - Delft Hyperloop's GUI standard, winner during 2025 EHW
    - [ts-automata](https://github.com/zakrok/ts-automata) - npm package for simulating automata from computational science
-- a contributor to: 
+- a contributor to:
+   - Mozilla Firefox - fixed a [bug in color conversion](https://phabricator.services.mozilla.com/D275400)
    - [Andy](https://github.com/SERG-Delft/andy) - added several checks and tests
    - [uplot-wrappers](https://github.com/skalinichev/uplot-wrappers) - created the Svelte wrapper for uPlot
 - a teaching assistant at TU Delft for the course Concept of Programming Languages.
