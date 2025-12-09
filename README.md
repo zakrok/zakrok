@@ -7,6 +7,7 @@ My name is Kiril Panayotov. I'm:
    - [ts-automata](https://github.com/zakrok/ts-automata) - npm package for simulating automata from computational science
 - a contributor to:
    - Mozilla Firefox - fixed a [bug in color conversion](https://phabricator.services.mozilla.com/D275400)
+   - Web Platform Tests - provided [test](https://github.com/web-platform-tests/wpt/pull/56561) for carrying forward implicit powerless value generation for hues
    - [Andy](https://github.com/SERG-Delft/andy) - added several checks and tests
    - [uplot-wrappers](https://github.com/skalinichev/uplot-wrappers) - created the Svelte wrapper for uPlot
 - a teaching assistant at TU Delft for the course Concept of Programming Languages.
