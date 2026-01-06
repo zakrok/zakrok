@@ -6,14 +6,14 @@ My name is Kiril Panayotov. I'm:
 - developer/maintainer of: 
    - [Serpenta GUI](https://github.com/delft-hyperloop/serpenta) - Delft Hyperloop's GUI standard, winner during 2025 EHW
    - [ts-automata](https://github.com/zakrok/ts-automata) - npm package for simulating automata from computational science
-- author of paper: [CI told you: Exploring the role of testing strategies as part of CI pipelines and their impact on DevOp metrics in Open Source projects.](https://repository.tudelft.nl/file/File_20929ca5-66a7-4737-bbb8-b36dc47937bc?preview=1)
+- an author of paper: [CI told you: Exploring the role of testing strategies as part of CI pipelines and their impact on DevOp metrics in Open Source projects.](https://repository.tudelft.nl/file/File_20929ca5-66a7-4737-bbb8-b36dc47937bc?preview=1)
 - a contributor to:
    - Mozilla Firefox - fixed a [bug in color conversion](https://phabricator.services.mozilla.com/D275400)
    - Web Platform Tests - provided [test](https://github.com/web-platform-tests/wpt/pull/56561) for carrying forward implicit powerless value generation for hues
    - [Andy](https://github.com/SERG-Delft/andy) - added several checks and tests
    - [uplot-wrappers](https://github.com/skalinichev/uplot-wrappers) - created the Svelte wrapper for uPlot
 - a teaching assistant at TU Delft for the course Concept of Programming Languages.
-- leader of the Praxidike team
+- the leader of the Praxidike team
 
 For past employments and my CV, please visit [my online portfolio](https://zakrok.dev)
 
