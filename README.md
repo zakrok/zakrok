@@ -19,7 +19,7 @@ For past employments and my CV, please visit [my online portfolio](https://zakro
 
 Browse my nixos and home manager dotfiles configurations included in this repo under the [nixos_config subfolder](./nixos_config).
 
-Contact: [contact@zakrok.dev](mailto:contact@zakrok.dev?body=%0A%0A%0AEmail%20comes%20from%20GitHub%20portfolio.)
+Contact: [contact@zakrok.dev](mailto:contact@zakrok.dev?body=%0A%0A%0AEmail%20comes%20from%20GitHub%20portfolio.) or [kiril.panayotov@jetbrains.com](mailto:kiril.panayotov@jetbrains.com?body=%0A%0A%0AEmail%20comes%20from%20GitHub%20portfolio.)
 
 [Hristo Smirnenski—Tale of the stairs](./tale_of_the_stairs.md)
 
