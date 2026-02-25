@@ -21,8 +21,6 @@ Browse my nixos and home manager dotfiles configurations included in this repo u
 
 Contact: [contact@zakrok.dev](mailto:contact@zakrok.dev?body=%0A%0A%0AEmail%20comes%20from%20GitHub%20portfolio.) or [kiril.panayotov@jetbrains.com](mailto:kiril.panayotov@jetbrains.com?body=%0A%0A%0AEmail%20comes%20from%20GitHub%20portfolio.)
 
-[Hristo Smirnenski—Tale of the stairs](./tale_of_the_stairs.md)
-
 <details>
    <summary>More</summary>
    <picture>
@@ -52,4 +50,6 @@ Contact: [contact@zakrok.dev](mailto:contact@zakrok.dev?body=%0A%0A%0AEmail%20co
    
    Solus cum sis voluntarie immaturus, magna consequi potes.
    ```
+
+   [Hristo Smirnenski—Tale of the stairs](./tale_of_the_stairs.md)
 </details>
