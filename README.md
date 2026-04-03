@@ -1,7 +1,7 @@
 My name is Kiril Panayotov. I'm:
 
 - bulgarian
-- an intern at WebStorm, JetBrains
+- a software developer at WebStorm, JetBrains
 - TU Delft CSE Masters (Bachelor's graduate)
 - developer/maintainer of: 
    - [Serpenta GUI](https://github.com/delft-hyperloop/serpenta) - Delft Hyperloop's GUI standard, winner during 2025 EHW
