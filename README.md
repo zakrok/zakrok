@@ -8,7 +8,7 @@ My name is Kiril Panayotov. I'm:
    - [ts-automata](https://github.com/zakrok/ts-automata) - npm package for simulating automata from computational science
 - author of paper: [CI told you: Exploring the role of testing strategies as part of CI pipelines and their impact on DevOp metrics in Open Source projects.](https://repository.tudelft.nl/file/File_20929ca5-66a7-4737-bbb8-b36dc47937bc?preview=1)
 - a contributor to:
-   - Mozilla Firefox - fixed a [bug in color conversion](https://phabricator.services.mozilla.com/D275400), [commit](https://github.com/mozilla-firefox/firefox/commit/557d0a01bb2823242b71b265fbe2ee4f269817f4)
+   - Mozilla Firefox - fixed a [bug in color conversion](https://phabricator.services.mozilla.com/D275400), [commit](https://github.com/mozilla-firefox/firefox/commit/557d0a01bb2823242b71b265fbe2ee4f269817f4) and [community notes](https://www.firefox.com/en-US/firefox/148.0/releasenotes/#note-791477)
    - Web Platform Tests - provided [test](https://github.com/web-platform-tests/wpt/pull/56561) for carrying forward implicit powerless value generation for hues
    - [Andy](https://github.com/SERG-Delft/andy) - added several checks and tests
    - [uplot-wrappers](https://github.com/skalinichev/uplot-wrappers) - created the Svelte wrapper for uPlot
