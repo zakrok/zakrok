@@ -12,7 +12,7 @@ My name is Kiril Panayotov. I'm:
    - Web Platform Tests - provided [test](https://github.com/web-platform-tests/wpt/pull/56561) for carrying forward implicit powerless value generation for hues
    - [Andy](https://github.com/SERG-Delft/andy) - added several checks and tests
    - [uplot-wrappers](https://github.com/skalinichev/uplot-wrappers) - created the Svelte wrapper for uPlot
-- a teaching assistant at TU Delft for the course Concept of Programming Languages.
+- a head teaching assistant at TU Delft for the course Concept of Programming Languages.
 - the leader of the Praxidike team
 
 For past employments and my CV, please visit [my online portfolio](https://zakrok.dev)
