@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8a5a5ba2-56d6-4a23-b396-7ffc029fdd03" name="Changes" comment="fix: text in about" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;zakrok&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;git@github.com:zakrok/zakrok.dev.git&quot;,
+    &quot;accountId&quot;: &quot;32ffd4ef-7be2-45c8-a452-6befbc53fcb0&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3AFnlLVvbKa8X5mAoVVL2fXrKnU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "NIXITCH_NIXPKGS_CONFIG": "",
+    "NIXITCH_NIX_CONF_DIR": "",
+    "NIXITCH_NIX_OTHER_STORES": "",
+    "NIXITCH_NIX_PATH": "",
+    "NIXITCH_NIX_PROFILES": "/nix/var/nix/profiles/default /home/ecstasy/.nix-profile",
+    "NIXITCH_NIX_REMOTE": "",
+    "NIXITCH_NIX_USER_PROFILE_DIR": "",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
+    "javascript.preferred.runtime.type.id": "node",
+    "junie.onboarding.icon.badge.shown": "true",
+    "last_opened_file_path": "/home/ecstasy/WebstormProjects/zakrok",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_interpreter_path": "/home/ecstasy/.nvm/versions/node/v25.6.0/bin/node",
+    "nodejs_package_manager_path": "npm",
+    "npm.dev.executor": "Debug",
+    "settings.editor.selected.configurable": "reference.settings.ide.settings.web.browsers",
+    "to.speed.mode.migration.done": "true",
+    "ts.external.directory.path": "/home/ecstasy/WebstormProjects/zakrok.dev/node_modules/typescript/lib",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/routes/blog/post" />
+      <recent name="$PROJECT_DIR$/src/routes/blog/nix_post" />
+      <recent name="$PROJECT_DIR$/src/routes/blog" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="dev" type="js.build_tools.npm" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="dev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-WS-262.8665.259" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task id="LOCAL-00001" summary="fix: bind cornell box">
+      <option name="closed" value="true" />
+      <created>1772196547018</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1772196547018</updated>
+    </task>
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8a5a5ba2-56d6-4a23-b396-7ffc029fdd03" name="Changes" comment="fix: bind cornell box" />
+      <created>1772197337556</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1772197337556</updated>
+      <workItem from="1772197338951" duration="4524000" />
+      <workItem from="1772238338235" duration="2261000" />
+      <workItem from="1772399942788" duration="448000" />
+      <workItem from="1772543538901" duration="1528000" />
+      <workItem from="1772927217869" duration="72000" />
+      <workItem from="1773579597660" duration="867000" />
+      <workItem from="1774097041367" duration="162000" />
+      <workItem from="1775342530420" duration="537000" />
+      <workItem from="1776117599465" duration="74000" />
+      <workItem from="1778260345872" duration="4000" />
+      <workItem from="1779910894431" duration="77000" />
+      <workItem from="1779910977088" duration="8000" />
+      <workItem from="1783548538094" duration="478000" />
+      <workItem from="1783549772561" duration="216000" />
+      <workItem from="1784383073822" duration="2359000" />
+    </task>
+    <task id="LOCAL-00002" summary="fix: posts and projects page">
+      <option name="closed" value="true" />
+      <created>1772239991833</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1772239991833</updated>
+    </task>
+    <task id="LOCAL-00003" summary="fix: deployment fault due to link to static">
+      <option name="closed" value="true" />
+      <created>1772240221929</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1772240221929</updated>
+    </task>
+    <task id="LOCAL-00004" summary="fix">
+      <option name="closed" value="true" />
+      <created>1773579782224</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1773579782224</updated>
+    </task>
+    <task id="LOCAL-00005" summary="fix: add tobias link to friends.txt window">
+      <option name="closed" value="true" />
+      <created>1775342667459</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1775342667460</updated>
+    </task>
+    <task id="LOCAL-00006" summary="fix: make text more readable">
+      <option name="closed" value="true" />
+      <created>1775343043583</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1775343043583</updated>
+    </task>
+    <task id="LOCAL-00007" summary="fix: text in about">
+      <option name="closed" value="true" />
+      <created>1775343051777</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1775343051777</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="fix: bind cornell box" />
+    <MESSAGE value="fix: posts and projects page" />
+    <MESSAGE value="fix: deployment fault due to link to static" />
+    <MESSAGE value="t" />
+    <MESSAGE value="fix" />
+    <MESSAGE value="fix: add tobias link to friends.txt window" />
+    <MESSAGE value="fix: make text more readable" />
+    <MESSAGE value="fix: text in about" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix: text in about" />
+  </component>
+</project>
