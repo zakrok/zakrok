@@ -5,6 +5,7 @@ import AudoCtrl from "../lib/AudoCtrl.svelte";
 import X8831 from "../lib/X8831.svelte";
 import My88x31Tag from "../lib/MyTag.svelte";
 import Anchor from "../lib/Anchor.svelte";
+import FakeX8831 from "../lib/FakeX8831.svelte";
 </script>
 
 <Artt />
@@ -32,15 +33,19 @@ import Anchor from "../lib/Anchor.svelte";
         </div>
     </Window>
     <Window title="friends.txt" bottom={2}>
-        <div class="grid grid-cols-2">
-            <ul class="list-disc list-inside underline">
-                <li><a href="https://garden.pacia.tech" target="_blank">bpacia</a></li>
-                <li><a href="https://andreats.com/" target="_blank">andtsa</a></li>
-                <li><a href="https://dnbln.dev/" target="_blank">dnbln</a></li>
-            </ul>
-            <ul class="list-disc list-inside underline">
-                <li><a href="https://tminnleggen.no/" target="_blank">2bias123</a></li>
-            </ul>
+        <div class="grid grid-cols-2 gap-y-2">
+            <a href="https://garden.pacia.tech" target="_blank">
+                <FakeX8831 text="bpacia" />
+            </a>
+            <a href="https://andreats.com/" target="_blank">
+                <X8831 which="andreas.png" />
+            </a>
+            <a href="https://dnbln.dev/" target="_blank">
+                <FakeX8831 text="dnbln" />
+            </a>
+            <a href="https://tminnleggen.no/" target="_blank">
+                <FakeX8831 text="2bias123" />
+            </a>
         </div>
     </Window>
 </div>
