@@ -1,12 +1,8 @@
 <script>
+    import Nav from "$lib/Nav.svelte";
 </script>
 
-<nav class="font-pixel text-white w-1/2 mx-auto mb-12 mt-6">
-    <a href="/" class="underline">home</a>
-    <a href="/projects" class="underline">projects</a>
-    <a href="/blog" class="underline bg-white text-black">blog</a>
-    <a href="/about" class="underline">about</a>
-</nav>
+<Nav current="blog" />
 
 <main class="lg:w-1/2 p-8 lg:p-0 mx-auto font-pixel">
     <span class="text-gray-500 font-pixel">

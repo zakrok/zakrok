@@ -1,13 +1,10 @@
 <script lang="ts">
+    import Nav from "$lib/Nav.svelte";
+
     let { children } = $props();
 </script>
 
-<nav class="font-pixel text-white w-11/12 md:w-1/2 mx-auto mb-12 mt-6">
-    <a href="/" class="underline">home</a>
-    <a href="/projects" class="underline">projects</a>
-    <a href="/blog" class="bg-white text-black underline">blog</a>
-    <a href="/about" class="underline">about</a>
-</nav>
+<Nav current="blog" />
 
 <main class="mx-4 md:mx-auto md:w-1/2 block prose max-w-none
             prose-p:text-lg
