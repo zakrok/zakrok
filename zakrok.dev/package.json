@@ -11,7 +11,7 @@
 		"check:watch": "svelte-kit sync && svelte-check --tsconfig tsconfig.json --watch"
 	},
 	"engines": {
-		"node": "^26.x"
+		"node": "^24.x"
 	},
 	"devDependencies": {
 		"@sveltejs/adapter-static": "^4.0.0",
