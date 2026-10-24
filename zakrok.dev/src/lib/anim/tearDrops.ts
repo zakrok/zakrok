@@ -1,5 +1,5 @@
-import {toGrayscaleHex, toHex} from "$lib/colorUtil";
-import type {ArttAnimation} from "$lib/anim/ArttAnimation";
+import {toGrayscaleHex, toHex} from "./../colorUtil";
+import type {ArttAnimation} from "./ArttAnimation";
 
 export function tearDrop(screenWidth: number, screenHeight: number): ArttAnimation {
     const dropSpeed = Math.random() * 4 + 1;

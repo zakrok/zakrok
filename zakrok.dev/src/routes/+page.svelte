@@ -1,10 +1,10 @@
 <script lang="ts">
-    import Artt from "$lib/Artt.svelte";
-    import Window from "$lib/Window.svelte";
-    import AudoCtrl from "$lib/AudoCtrl.svelte";
-    import My88x31Tag from "$lib/MyTag.svelte";
-    import Anchor from "$lib/Anchor.svelte";
-    import X8831 from "$lib/X8831.svelte";
+import Artt from "../lib/Artt.svelte";
+import Window from "../lib/Window.svelte";
+import AudoCtrl from "../lib/AudoCtrl.svelte";
+import X8831 from "../lib/X8831.svelte";
+import My88x31Tag from "../lib/MyTag.svelte";
+import Anchor from "../lib/Anchor.svelte";
 </script>
 
 <Artt />

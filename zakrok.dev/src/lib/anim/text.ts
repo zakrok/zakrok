@@ -1,4 +1,4 @@
-import type {ArttAnimation} from "$lib/anim/ArttAnimation";
+import type {ArttAnimation} from "./ArttAnimation";
 
 export function text(screenWidth: number, screenHeight: number): ArttAnimation {
     const frames: ((ctx: CanvasRenderingContext2D) => void)[] = [];

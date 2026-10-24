@@ -1,5 +1,5 @@
 <script>
-    import X8831 from "$lib/X8831.svelte";
+    import X8831 from "./X8831.svelte";
 
     async function copy_88() {
         try {

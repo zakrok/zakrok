@@ -1,6 +1,6 @@
 <script>
-    import Anchor from "$lib/Anchor.svelte";
-    import Nav from "$lib/Nav.svelte";
+    import Anchor from "../../lib/Anchor.svelte";
+    import Nav from "../../lib/Nav.svelte";
 </script>
 
 <Nav current="projects" />

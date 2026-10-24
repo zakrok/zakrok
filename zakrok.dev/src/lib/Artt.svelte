@@ -1,10 +1,10 @@
 <script lang="ts">
     import {onMount} from 'svelte';
-    import {renderFrame} from "$lib/anim/ArttAnimation";
-    import type {Scene} from "$lib/anim/Scene";
-    import {eyes} from "$lib/anim/eyes";
-    import {tearDrop} from "$lib/anim/tearDrops";
-    import {text} from "$lib/anim/text";
+    import {renderFrame} from "./anim/ArttAnimation.ts";
+    import type {Scene} from "./anim/Scene";
+    import {eyes} from "./anim/eyes";
+    import {tearDrop} from "./anim/tearDrops";
+    import {text} from "./anim/text";
 
     let canvas: HTMLCanvasElement;
     let windowWidth = $state(1920);

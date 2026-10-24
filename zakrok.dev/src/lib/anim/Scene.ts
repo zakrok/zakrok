@@ -1,4 +1,4 @@
-import type {ArttAnimation} from "$lib/anim/ArttAnimation";
+import type {ArttAnimation} from "./ArttAnimation";
 
 export interface Scene {
     animations: ArttAnimation[],
